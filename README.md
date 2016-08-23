@@ -5,8 +5,12 @@
 ## 目录
 
 - [交互类](./交互类.md)
-    - [DataTables](./表单类/DataTables.md)
+    - [DataTables](./交互类/DataTables.md)
 - [功能类](./功能类.md)
+    - [eventproxy](./功能类/eventproxy.md)
+    - [lodash](./功能类/lodash.md)
+    - [sugar](./功能类/sugar.md)
+    - [underscore](./功能类/underscore.md)
 - [多媒体类](./多媒体类.md)
 - [展示类](./展示类.md)
 - [框架类](./框架类.md)
