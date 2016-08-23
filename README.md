@@ -13,10 +13,12 @@
     - [underscore](./功能类/underscore.md)
 - [多媒体类](./多媒体类.md)
 - [展示类](./展示类.md)
+    - [lightSlider](./展示类/lightSlider.md)
 - [框架类](./框架类.md)
 - [模块类](./模块类.md)
 - [模板类](./模板类.md)
 - [特效类](./特效类.md)
+    - [slimScroll](./特效类/slimScroll.md)
 - [表单类](./表单类.md)
     - [Simditor](./表单类/Simditor.md)
 
