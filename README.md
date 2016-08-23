@@ -5,6 +5,7 @@
 ## 目录
 
 - [交互类](./交互类.md)
+    - [DataTables](./表单类/DataTables.md)
 - [功能类](./功能类.md)
 - [多媒体类](./多媒体类.md)
 - [展示类](./展示类.md)
@@ -15,9 +16,6 @@
 - [表单类](./表单类.md)
     - [Simditor](./表单类/Simditor.md)
 
-## more
-
-<div style="width: 100%;height: 50px;background-color: red;"></div>
 
 
 
