@@ -6,7 +6,7 @@
 
 - [交互类](./交互类.md)
     - [DataTables](./交互类/DataTables.md)
-    - [Slip](./交互类/Slip.md)
+    - [Slip](./交互类/slip.md)
 - [功能类](./功能类.md)
     - [eventproxy](./功能类/eventproxy.md)
     - [lodash](./功能类/lodash.md)
