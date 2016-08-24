@@ -8,10 +8,10 @@
 - https://lodash.com/
 
 **Features：**
-- 一致接口
-- 模块化
-- 高性能
-- javaScript工具库
+- ~100%代码覆盖率
+- 遵循语义化版本控制规范
+- 延迟计算链
+- 改变函数的实参个数和顺序
 
 **Git:**
 - https://github.com/lodash/lodash

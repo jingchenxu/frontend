@@ -2,7 +2,7 @@
 
 > 完美的图标字体，结合bootstrap使用效果更佳，也可以单独使用
 
-![](./images/FontAwesome.png)
+![](../images/FontAwesome.png)
 
 **Official：** 
 - http://www.bootcss.com/p/font-awesome/#

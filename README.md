@@ -6,6 +6,7 @@
 
 - [交互类](./交互类.md)
     - [DataTables](./交互类/DataTables.md)
+    - [Slip](./交互类/Slip.md)
 - [功能类](./功能类.md)
     - [eventproxy](./功能类/eventproxy.md)
     - [lodash](./功能类/lodash.md)
@@ -15,6 +16,7 @@
 - [展示类](./展示类.md)
     - [lightSlider](./展示类/lightSlider.md)
 - [框架类](./框架类.md)
+    - [fontAwesome](./框架类/fontAwesome.md)
 - [模块类](./模块类.md)
 - [模板类](./模板类.md)
 - [特效类](./特效类.md)
